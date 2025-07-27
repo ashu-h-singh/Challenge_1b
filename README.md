@@ -16,18 +16,25 @@ Folder Structure :-
 CHALLENGE_1B/
 │
 ├── Collection_1/
-│ ├── PDFs/
-│ ├── challenge1b_input.json
-│ └── challenge1b_output.json
+│   ├── PDFs/
+│   ├── challenge1b_input.json
+│   └── challenge1b_output.json
 │
 ├── Collection_2/
-├── Collection_3/
+│   ├── PDFs/
+│   ├── challenge1b_input.json
+│   └── challenge1b_output.json
 │
-├── process_collections.py # Main processing script
-├── requirements.txt # Python dependencies
-├── Dockerfile # Docker build file
+├── Collection_3/
+│   ├── PDFs/
+│   ├── challenge1b_input.json
+│   └── challenge1b_output.json
+│
+├── process_collections.py          # Main processing script
+├── requirements.txt                # Python dependencies
+├── Dockerfile                      # Docker build file
 ├── approach_explanation_enhanced.md
-└── README.md # You are here
+└── README.md                       # You are here
 
 
 Run Instructions :- 
