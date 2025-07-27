@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-27T15:10:38.362563"
+    },
+    "extracted_sections": [
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "o Oil for frying (Vegetarian Pick)",
+            "importance_rank": 1,
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "section_title": "o Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food (Vegetarian Pick)",
+            "importance_rank": 2,
+            "page_number": 13
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "section_title": "Hummus (Vegetarian Pick)",
+            "importance_rank": 3,
+            "page_number": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "\uf0b7 (Vegetarian Pick)",
+            "importance_rank": 4,
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "section_title": "Msemen (Vegetarian Pick)",
+            "importance_rank": 5,
+            "page_number": 12
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "- Key ingredients extracted.\n- Cooking method mentioned.\n- Suitable for buffet serving.\n- o Oil for frying \n\uf0b7 \nInstructions: \no Mix grated cassava with coconut milk and salt.\n- o Form mixture into flat cakes.\n- o Fry in hot oil until golden.\n- o Drain on paper towels and serve warm.",
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "- Key ingredients extracted.\n- Cooking method mentioned.\n- Suitable for buffet serving.\n- o Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food \nprocessor.\n- o Slowly add olive oil while blending until smooth.\n- o Serve with a drizzle of olive oil.\n- Naan \n\uf0b7 \nIngredients: \no 2 1/4 teaspoons active dry yeast \no 1 teaspoon sugar \no 1/2 cup warm water \no 2 1/2 cups flour \no 1/2 cup yogurt \no 1/4 cup melted butter \no 1 teaspoon salt \n\uf0b7 \nInstructions: \no Dissolve yeast and sugar in warm water, let sit until foamy.",
+            "page_number": 13
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "- Key ingredients extracted.\n- Cooking method mentioned.\n- Suitable for buffet serving.\n- Hummus \n\uf0b7 \nIngredients: \no 1 can chickpeas \no 1/4 cup tahini \no 1/4 cup lemon juice \no 2 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon salt \n\uf0b7 \nInstructions: \no Drain and rinse chickpeas.\n- o Blend chickpeas, tahini, lemon juice, minced garlic, and salt in a food processor.\n- o Slowly add olive oil while blending until smooth.\n- o Serve with a drizzle of olive oil.",
+            "page_number": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "- Key ingredients extracted.\n- Cooking method mentioned.\n- Suitable for buffet serving.\n- \uf0b7 \nInstructions: \no Form risotto into balls and stuff with a cube of mozzarella.\n- o Dredge balls in flour, dip in beaten eggs, and coat with breadcrumbs.\n- o Fry in hot oil until golden.\n- o Drain on paper towels and serve warm.",
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "- Key ingredients extracted.\n- Cooking method mentioned.\n- Suitable for buffet serving.\n- Msemen \n\uf0b7 \nIngredients: \no 2 cups flour \no 1 cup semolina \no 1 teaspoon salt \no 1/4 cup olive oil \no 1 cup water \no 1/4 cup butter \n\uf0b7 \nInstructions: \no Mix flour, semolina, and salt in a bowl.\n- o Add water and knead until smooth.\n- o Divide dough into balls and roll out into thin circles.\n- o Brush with melted butter and fold into squares.",
+            "page_number": 12
+        }
+    ]
+}
