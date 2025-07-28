@@ -95,3 +95,7 @@ Use semantic embeddings or domain-aware transformers (if model size permits)
 Add GUI for user interaction
 Multilingual document support
 
+Docker Repository
+You can access and pull the Docker image from Docker Hub here:
+🔗 Docker Repo – https://hub.docker.com/repositories/11222750
+
